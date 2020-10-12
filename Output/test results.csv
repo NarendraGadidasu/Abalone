@@ -1,0 +1,8 @@
+ANN,ab,0.594911041,{'MLP__activation': 'relu', 'MLP__alpha': 0.31622776601683794, 'MLP__hidden_layer_sizes': (5,)}
+Boost,ab,0.757816588,{'Boost__base_estimator__alpha': 0.1, 'Boost__n_estimators': 1},,
+DT,ab,0.619374673,{'DT__alpha': -1, 'DT__class_weight': 'balanced', 'DT__criterion': 'entropy'},
+KNN,ab,0.571036107,{'KNN__metric': 'euclidean', 'KNN__n_neighbors': 1, 'KNN__weights': 'uniform'},
+SVM_RBF,ab,0.806220565,{'SVM__alpha': 0.03162277660168379, 'SVM__gamma_frac': 0.6000000000000001, 'SVM__n_iter': 428},
+SVM_Lin,ab,0.855147828,{'SVM__alpha': 0.001, 'SVM__n_iter': 428},,
+SVM_Lin,ab,0.855147828362114,{'SVM__alpha': 0.001, 'SVM__n_iter': 428}
+SVM_Lin,ab,0.855147828362114,{'SVM__alpha': 0.001, 'SVM__n_iter': 428}
