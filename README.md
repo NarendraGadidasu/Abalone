@@ -1,7 +1,5 @@
 # Abalone
 
-First of all, all the required files will be available in the zipped folder. If you still want to proceed and check, follow the below steps:
-
 1.Download the dataset from https://archive.ics.uci.edu/ml/datasets/Abalone
 2.Open the folder 'Abolone'
 3.If 'output' folder does not exit, create it.
